@@ -14,7 +14,7 @@
 | [overtrue/laravel-lang](https://github.com/overtrue/laravel-lang) | Laravel 多语言 | [overtrue/laravel-lang](https://packagist.org/packages/overtrue/laravel-lang) |
 | [overtrue/laravel-mail-aliyun](https://github.com/overtrue/laravel-mail-aliyun) | laravel 阿里云邮件 SDK | [overtrue/laravel-mail-aliyun](https://packagist.org/packages/overtrue/laravel-mail-aliyun) |
 | [overtrue/laravel-socialite](https://github.com/overtrue/laravel-socialite) | laravel 社交登录组件 | [overtrue/laravel-socialite](https://packagist.org/packages/overtrue/laravel-socialite) |
-| [overtrue/socialite](https://github.com/overtrue/laravel-socialite) | 社交登录组件 | [overtrue/socialite](https://packagist.org/packages/overtrue/socialite) |
+| [overtrue/socialite](https://github.com/overtrue/socialite) | 社交登录组件 | [overtrue/socialite](https://packagist.org/packages/overtrue/socialite) |
 | [overtrue/laravel-uploader](https://github.com/overtrue/laravel-uploader) | Laravel 上传功能封装 | [overtrue/laravel-uploader](https://packagist.org/packages/overtrue/laravel-uploader) |
 | [overtrue/laravel-query-logger](https://github.com/overtrue/laravel-query-logger) | Laravel SQL 监听工具 | [overtrue/laravel-query-logger](https://packagist.org/packages/overtrue/laravel-query-logger) |
 | [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) | 中国农历转换与查询工具 | [overtrue/chinese-calendar](https://packagist.org/packages/overtrue/chinese-calendar) |
