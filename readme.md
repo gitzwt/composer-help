@@ -65,4 +65,6 @@
 | [jenssegers/date](https://github.com/jenssegers/date) | 不同语言的日期库 | [jenssegers/date](https://packagist.org/packages/jenssegers/date) |
 | [mews/purifier](https://github.com/mewebstudio/Purifier) | 用户提交的 Html 白名单过滤 | [mews/purifier](https://packagist.org/packages/mews/purifier) |
 | [laravolt/avatar](https://github.com/aravolt/avatar) | 生成用户头像 | [laravolt/avatar](https://packagist.org/packages/laravolt/avatar) |
+| [louislivi/smproxy](https://github.com/louislivi/SMProxy) | MySQL连接池 SMProxy中间件 | [louislivi/smproxy](https://packagist.org/packages/louislivi/smproxy) |
+
 
