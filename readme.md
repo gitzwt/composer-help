@@ -67,5 +67,6 @@
 | [laravolt/avatar](https://github.com/aravolt/avatar) | 生成用户头像 | [laravolt/avatar](https://packagist.org/packages/laravolt/avatar) |
 | [louislivi/smproxy](https://github.com/louislivi/SMProxy) | MySQL连接池 SMProxy中间件 | [louislivi/smproxy](https://packagist.org/packages/louislivi/smproxy) |
 | [jiaweixs/weapp](https://github.com/kulokai/weapp_wechat_miniapp_sdk) | 微信小程序服务端SDK | [jiaweixs/weapp](https://packagist.org/packages/jiaweixs/weapp) |
+| [chen-see/chen-pay](https://github.com/ChenSee/ChenPay) | 免签约支付宝与微信 | [chen-see/chen-pay](https://packagist.org/packages/chen-see/chen-pay) |
 
 
