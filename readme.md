@@ -68,5 +68,7 @@
 | [louislivi/smproxy](https://github.com/louislivi/SMProxy) | MySQL连接池 SMProxy中间件 | [louislivi/smproxy](https://packagist.org/packages/louislivi/smproxy) |
 | [jiaweixs/weapp](https://github.com/kulokai/weapp_wechat_miniapp_sdk) | 微信小程序服务端SDK | [jiaweixs/weapp](https://packagist.org/packages/jiaweixs/weapp) |
 | [chen-see/chen-pay](https://github.com/ChenSee/ChenPay) | 免签约支付宝与微信 | [chen-see/chen-pay](https://packagist.org/packages/chen-see/chen-pay) |
+| [xaboy/form-builder](https://github.com/xaboy/form-builder) | PHP表单生成器 | [xaboy/form-builder](https://packagist.org/packages/xaboy/form-builder) |
+| [aoxiang/province-city-area](https://github.com/aoxiang594/laravel-province-city-area) | 京东全国省市县乡镇街道 | [aoxiang/province-city-area](https://packagist.org/packages/aoxiang/province-city-area) |
 
 
