@@ -70,5 +70,7 @@
 | [chen-see/chen-pay](https://github.com/ChenSee/ChenPay) | 免签约支付宝与微信 | [chen-see/chen-pay](https://packagist.org/packages/chen-see/chen-pay) |
 | [xaboy/form-builder](https://github.com/xaboy/form-builder) | PHP表单生成器 | [xaboy/form-builder](https://packagist.org/packages/xaboy/form-builder) |
 | [aoxiang/province-city-area](https://github.com/aoxiang594/laravel-province-city-area) | 京东全国省市县乡镇街道 | [aoxiang/province-city-area](https://packagist.org/packages/aoxiang/province-city-area) |
+| [ennnnny/tbk](https://github.com/ennnnny/tbk) | 简约优雅的淘宝客SDK | [ennnnny/tbk](https://packagist.org/packages/ennnnny/tbk) |
+| [niugengyun/easytbk](https://github.com/niugengyun/easytbk) | 简单淘客三合一SDK | [niugengyun/easytbk](https://packagist.org/packages/niugengyun/easytbk) |
 
 
